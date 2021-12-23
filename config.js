@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'Trang à!',
+    introTitle: 'Hí Huế !',
     introDesc: `Trái đất vốn lạ thường 🥰
     Mà sao em cứ đi nhầm đường 😙
     Lạc vào tim anh lẻ loi.
@@ -12,8 +12,8 @@ const CONFIG = {
     question:'Trên thế giới hơn 7 tỉ người mà sao Trang lại yêu mình <3',
     btnReply: 'Gửi cho tin nhắn cho mình nha <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu Trang nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 9h gặp nhau trong PUPG nhé công chúa.',
+    mess: 'Mình biết mà 🥰. Yêu Huế nhiều nhiều 😘😘',
+    messDesc: 'Tối nay 9h anh đưa đi bắn Bi-a nhé công chúa.',
     btnAccept: 'Oke nà <3',
     messLink: 'http://fb.com' 
 }
